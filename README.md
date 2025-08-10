@@ -1,5 +1,5 @@
 <img width="100%" height="200px" src="https://s3.eu-west-1.amazonaws.com/redsys-prod/articles/eac8c6d69d1ce8ce0ff8824d/images/teaserImage_xxxx_croppedTeaserImage.jpg" alt="" style="object-fit: cover;">
-<h1 align="left">Hi 👋, I'm Maxamed Jayte</h1>
+<h1 align="left">Hi 👋, I'm Mohamed Jayte</h1>
 <h3 align="left">Senior Web and Mobile Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maxamedjayte&label=Profile%20views&color=0e75b6&style=flat" alt="maxamedjayte" /> </p>
